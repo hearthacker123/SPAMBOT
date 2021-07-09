@@ -17,7 +17,7 @@
       },
       "API_ID": {
         "description": "Fill API ID ",
-        "value": "",
+        "value": "2842433",
         "required": true
       },
       "STRING2": {
@@ -67,7 +67,7 @@
       },
       "API_HASH": {
         "description": "Api Hash get it from telegram.org",
-        "value": "",
+        "value": "7ff7db9b8df7a4acdb20920d84bb1a84",
         "required": true
       },
       "SUDO": {
