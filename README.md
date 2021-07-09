@@ -37,7 +37,8 @@ Adding soon👀
 
 
 #### credit
-[TEAM KINGBOT + YUKII](https://telegra.ph/Credits-07-09)
+You can read
+[TEAM KINGBOT + TEAM YUKII](https://telegra.ph/Credits-07-09)
 
 ## Feedback / new suggestions
 
