@@ -6,7 +6,7 @@ A POWERFUL SPAM USERBOT WHICH WORK ON TELEGRAM BASED ON TELETHON. BY DEPLOYING/H
 </p>
 
 
-##Mandotry Vars 
+## Mandotry Vars 
 
    - `API_ID` :  Give API_ID of your Alternate Telegram Account.
    - `API_HASH` :  Give API_HASH of your Alternate Telegram Account.
