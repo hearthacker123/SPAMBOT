@@ -18,7 +18,7 @@ A POWERFUL SPAM USERBOT WHICH WORK ON TELEGRAM BASED ON TELETHON. BY DEPLOYING/H
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FKartikrajofficial%2FSPAMBOT&template=https%3A%2F%2Fgithub.com%2FKartikrajofficial%2FSPAMBOT)
 
 ### String Generator
 No required api hash or app/api id
@@ -33,12 +33,12 @@ https://t.me/KINGBOTOFFICIALCHAT
 
 ### YouTube Tutorial
 
-Adding soon
+Adding soon👀
 
 
 #### credit
 [TEAM KINGBOT + YUKII](https://telegra.ph/Credits-07-09)
 
-### checking something
+## Feedback / new suggestions
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkartikrajofficial%2FSPAMBOT)
+Give Feeds/suggestions in this bot [🚀HERE](https://t.me/KINGBOT_feedbackbot)
